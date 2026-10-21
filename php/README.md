@@ -1,6 +1,6 @@
 # Country Boundaries API - PHP Package
 
-Country Boundaries is a simple tool for getting the shape of a specific country's border. It returns the shape of the specified country's border.
+Country Boundaries retrieves GeoJSON border outlines for any country by its two-letter ISO code. Each response includes the country name, geometry type, and boundary coordinate pairs ready for mapping layers.
 
 ## Installation
 
@@ -3965,11 +3965,11 @@ $client = new Client(
 
 ## Documentation
 
-For more information, visit the [API Documentation](https://docs.apiverve.com/ref/countryboundaries?utm_source=packagist&utm_medium=readme).
+For more information, visit the [API Documentation](https://docs.apiverve.com/ref/countryboundaries?utm_source=packagist&utm_medium=referral&utm_content=readme).
 
 ## Support
 
-- Website: [https://apiverve.com/marketplace/countryboundaries?utm_source=php&utm_medium=readme](https://apiverve.com/marketplace/countryboundaries?utm_source=php&utm_medium=readme)
+- Website: [https://apiverve.com/marketplace/countryboundaries?utm_source=php&utm_medium=referral&utm_content=readme](https://apiverve.com/marketplace/countryboundaries?utm_source=php&utm_medium=referral&utm_content=readme)
 - Email: hello@apiverve.com
 
 ## License
