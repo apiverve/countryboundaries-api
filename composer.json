@@ -1,7 +1,7 @@
 {
     "name": "apiverve/countryboundaries",
-    "description": "Country Boundaries is a simple tool for getting the shape of a specific country's border. It returns the shape of the specified country's border.",
-    "version": "1.2.0",
+    "description": "Country Boundaries retrieves GeoJSON border outlines for any country by its two-letter ISO code. Each response includes the country name, geometry type, and boundary coordinate pairs ready for mapping layers.",
+    "version": "1.2.2",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,13 +15,13 @@
         "api",
         "apiverve",
         "countryboundaries",
-        "country shapes",
-        "country shapes api",
-        "country shapes tool",
-        "country shapes software",
-        "country shapes service"
+        "country boundaries api",
+        "country geojson coordinates",
+        "country border polygon",
+        "get country borders",
+        "country shape coordinates"
     ],
-    "homepage": "https://apiverve.com/marketplace/countryboundaries?utm_source=php&utm_medium=homepage",
+    "homepage": "https://apiverve.com/marketplace/countryboundaries?utm_source=php&utm_medium=referral&utm_content=homepage",
     "support": {
         "email": "hello@apiverve.com",
         "docs": "https://docs.apiverve.com/ref/countryboundaries",
