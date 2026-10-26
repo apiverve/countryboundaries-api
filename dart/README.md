@@ -1,11 +1,11 @@
 # Country Boundaries API - Dart/Flutter Client
 
-Country Boundaries is a simple tool for getting the shape of a specific country's border. It returns the shape of the specified country's border.
+Country Boundaries retrieves GeoJSON border outlines for any country by its two-letter ISO code. Each response includes the country name, geometry type, and boundary coordinate pairs ready for mapping layers.
 
 [![pub package](https://img.shields.io/pub/v/apiverve_countryboundaries.svg)](https://pub.dev/packages/apiverve_countryboundaries)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is the Dart/Flutter client for the [Country Boundaries API](https://apiverve.com/marketplace/countryboundaries?utm_source=dart&utm_medium=readme).
+This is the Dart/Flutter client for the [Country Boundaries API](https://apiverve.com/marketplace/countryboundaries?utm_source=dart&utm_medium=referral&utm_content=readme).
 
 ## Installation
 
@@ -13,7 +13,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  apiverve_countryboundaries: ^1.1.14
+  apiverve_countryboundaries: ^1.2.3
 ```
 
 Then run:
@@ -3943,12 +3943,12 @@ void main() async {
 
 ## API Reference
 
-- **API Home:** [Country Boundaries API](https://apiverve.com/marketplace/countryboundaries?utm_source=dart&utm_medium=readme)
-- **Documentation:** [docs.apiverve.com/ref/countryboundaries](https://docs.apiverve.com/ref/countryboundaries?utm_source=dart&utm_medium=readme)
+- **API Home:** [Country Boundaries API](https://apiverve.com/marketplace/countryboundaries?utm_source=dart&utm_medium=referral&utm_content=readme)
+- **Documentation:** [docs.apiverve.com/ref/countryboundaries](https://docs.apiverve.com/ref/countryboundaries?utm_source=dart&utm_medium=referral&utm_content=readme)
 
 ## Authentication
 
-All requests require an API key. Get yours at [apiverve.com](https://apiverve.com?utm_source=dart&utm_medium=readme).
+All requests require an API key. Get yours at [apiverve.com](https://apiverve.com?utm_source=dart&utm_medium=referral&utm_content=readme).
 
 ## License
 
@@ -3956,4 +3956,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-Built with Dart for [APIVerve](https://apiverve.com?utm_source=dart&utm_medium=readme)
+Built with Dart for [APIVerve](https://apiverve.com?utm_source=dart&utm_medium=referral&utm_content=readme)
