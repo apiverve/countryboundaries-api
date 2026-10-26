@@ -1,7 +1,7 @@
 {
     "name": "apiverve/countryboundaries",
     "description": "Country Boundaries retrieves GeoJSON border outlines for any country by its two-letter ISO code. Each response includes the country name, geometry type, and boundary coordinate pairs ready for mapping layers.",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "type": "library",
     "license": "MIT",
     "authors": [
